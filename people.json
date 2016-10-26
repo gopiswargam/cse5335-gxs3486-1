@@ -1,0 +1,64 @@
+[
+   {
+      "name" : "mahesh", 
+	   "password" : "password1",
+	   "profession" : "teacher",
+    "age": 30,
+    "latitude": 23,
+    "longitude":  35
+   },
+   
+   {
+      "name" : "suresh",
+	   "password" : "password2",
+	   "profession" : "librarian",
+    "age": 25,
+    "latitude": 34,
+    "longitude":  21
+   },
+
+  {
+    "name": "ramesh",
+    "password": "password3",
+    "profession": "clerk",
+    "age": 22,
+    "latitude": 45,
+    "longitude":  67 
+  },
+
+  {
+    "name": "Ganesh",
+    "password": "password4",
+    "profession": "graduate",
+    "age": 19,
+    "latitude": 21,
+    "longitude":  39
+  },
+
+  {
+    "name": "Rajesh",
+    "password": "password5",
+    "profession": "undergraduate",
+    "age": 17,
+    "latitude": 30,
+    "longitude":  10
+  },
+
+  {
+    "name": "Animesh",
+    "password": "password6",
+    "profession": "Professor",
+    "age": 37,
+    "latitude": 56,
+    "longitude":  38
+  },
+
+  {
+    "name": "Akhilesh",
+    "passowrd": "password7",
+    "profession": "Doctor",
+    "age": 42,
+    "latitude": 56,
+    "longitude":  12
+  }
+]
